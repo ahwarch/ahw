@@ -1,0 +1,160 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ATELIER HAZEL WS WONG",
+    "description": "",
+    "home_page_url": "https://ahwarch.github.io/ahw",
+    "feed_url": "https://ahwarch.github.io/ahw/feed.json",
+    "user_comment": "",
+    "icon": "https://ahwarch.github.io/ahw/media/website/Logo.png",
+    "author": {
+        "name": "AHW"
+    },
+    "items": [
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/serenia-residence/",
+            "url": "https://ahwarch.github.io/ahw/projects/serenia-residence/",
+            "title": "Serenia Residence",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"8\">\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-07-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-07-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-03-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-03-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-04-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-04-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-06-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-06-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-05-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-05-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-01-3.jpg\" data-size=\"1920x1050\"><img loading=\"lazy\" src=\"https://ahwarch.github.io/ahw/media/posts/9/gallery/Serenia-01-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"420\"></a></figure>\n</div></div>",
+            "image": "https://ahwarch.github.io/ahw/media/posts/9/350_Serenia.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Residential"
+            ],
+            "date_published": "2019-12-05T11:02:57-05:00",
+            "date_modified": "2026-10-06T20:18:21-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/general-civil-aviation-authority/",
+            "url": "https://ahwarch.github.io/ahw/projects/general-civil-aviation-authority/",
+            "title": "General Civil Aviation Authority",
+            "summary": "[gallery ids=\"5282,5283,5284,5285,5286,5287,5288\"] Union Properties Headqurters This 12-storey tower was the winning competition&hellip;",
+            "content_html": "<!--themify_builder_static-->\n\n[gallery ids=\"5282,5283,5284,5285,5286,5287,5288\"]\n<h3>Union Properties Headqurters</h3>\nThis 12-storey tower was the winning competition submission for the Union Properties Headquarters in Dubai. The development comprise of 8000 square meters of office space and two levels of basement parking.\n\nThe taut, reflective glass skin facing the Dubai Creek is a dynamic feature in the design as is stainless steel spire, braced by copper accent ribs which projects a distinctive profile along the Dubai Skyline.\n\nWSW /NORR\n\n[gallery ids=\"5282,5283,5284,5285,5286,5287,5288\"]\n<h3>Union Properties Headqurters</h3>\nThis 12-storey tower was the winning competition submission for the Union Properties Headquarters in Dubai. The development comprise of 8000 square meters of office space and two levels of basement parking.\n\nThe taut, reflective glass skin facing the Dubai Creek is a dynamic feature in the design as is stainless steel spire, braced by copper accent ribs which projects a distinctive profile along the Dubai Skyline.\n\n.\n\n<!--/themify_builder_static-->",
+            "image": "https://ahwarch.github.io/ahw/media/posts/8/350_GCAA.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Commercial"
+            ],
+            "date_published": "2019-12-04T15:28:06-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/jumeirah-emirates-towers/",
+            "url": "https://ahwarch.github.io/ahw/projects/jumeirah-emirates-towers/",
+            "title": "Jumeirah Emirates Towers",
+            "image": "https://ahwarch.github.io/ahw/media/posts/3/350_ET_a.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Mixed-Use",
+                   "Hospitality",
+                   "Commercial"
+            ],
+            "date_published": "2019-12-03T07:41:24-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/trident-grand-residence/",
+            "url": "https://ahwarch.github.io/ahw/projects/trident-grand-residence/",
+            "title": "Trident Grand Residence",
+            "image": "https://ahwarch.github.io/ahw/media/posts/28/350_Trident.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Residential"
+            ],
+            "date_published": "2019-12-03T06:40:20-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/west-wharf/",
+            "url": "https://ahwarch.github.io/ahw/projects/west-wharf/",
+            "title": "West Wharf",
+            "image": "https://ahwarch.github.io/ahw/media/posts/12/350_W_Wharf.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Residential"
+            ],
+            "date_published": "2019-12-03T06:12:15-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/easa-saleh-al-gurg-headquarters/",
+            "url": "https://ahwarch.github.io/ahw/projects/easa-saleh-al-gurg-headquarters/",
+            "title": "Easa Saleh Al Gurg Headquarters",
+            "image": "https://ahwarch.github.io/ahw/media/posts/5/350_AlGurgHQ.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Commercial"
+            ],
+            "date_published": "2019-12-02T23:14:29-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/capital-business-park-cairo-egypt/",
+            "url": "https://ahwarch.github.io/ahw/projects/capital-business-park-cairo-egypt/",
+            "title": "Capital Business Park, Cairo, Egypt",
+            "image": "https://ahwarch.github.io/ahw/media/posts/18/350_CapitalC-1.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Mixed-Use",
+                   "Commercial"
+            ],
+            "date_published": "2019-12-02T22:34:03-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/dubai-conference-centre/",
+            "url": "https://ahwarch.github.io/ahw/projects/dubai-conference-centre/",
+            "title": "Dubai Conference Centre",
+            "image": "https://ahwarch.github.io/ahw/media/posts/19/350-DCC.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Hospitality"
+            ],
+            "date_published": "2019-12-02T22:14:09-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/jumeirah-creekside-hotel/",
+            "url": "https://ahwarch.github.io/ahw/projects/jumeirah-creekside-hotel/",
+            "title": "Jumeirah Creekside Hotel",
+            "image": "https://ahwarch.github.io/ahw/media/posts/2/350_JKS.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Hospitality"
+            ],
+            "date_published": "2019-12-02T21:00:55-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        },
+        {
+            "id": "https://ahwarch.github.io/ahw/projects/silverene-towers/",
+            "url": "https://ahwarch.github.io/ahw/projects/silverene-towers/",
+            "title": "Silverene Towers",
+            "image": "https://ahwarch.github.io/ahw/media/posts/4/350_Sileverene.jpg",
+            "author": {
+                "name": "AHW"
+            },
+            "tags": [
+                   "Residential"
+            ],
+            "date_published": "2019-12-02T20:00:09-05:00",
+            "date_modified": "2026-10-06T17:49:37-04:00"
+        }
+    ]
+}
